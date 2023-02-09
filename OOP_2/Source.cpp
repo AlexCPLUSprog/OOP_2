@@ -16,7 +16,4 @@ int main() {
 	//std::cout << t << "\n";
 	std::cout << t.fight() << "\n";*/
 
-	Class_1 A();
-
-
 }
